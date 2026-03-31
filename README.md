@@ -1,4 +1,32 @@
+# Lilo – Duygusal Karar Asistanı
 
+## Problem
+Günlük hayatta insanlar çoğu zaman yoğun duygular altında hızlı ve sağlıksız kararlar verebiliyor. Bu durum uzun vadede pişmanlık ve yanlış yönlendirilmiş seçimlere yol açabiliyor. Özellikle stresli anlarda objektif düşünmek zorlaşıyor.
+
+## Çözüm
+Lilo, kullanıcıların duygusal anlarında daha rasyonel kararlar almasına yardımcı olan AI destekli bir karar asistanıdır. Kullanıcı duygu durumunu ve vermek istediği kararı yazar; uygulama bu girdiyi analiz ederek bilişsel çarpıtmaları tespit eder ve kullanıcıya düşünmesini sağlayan 3 yönlendirici soru sunar.
+
+Gemini AI bu süreçte:
+- Kullanıcının duygu durumunu analiz eder
+- Olası bilişsel hataları belirler
+- Daha sağlıklı düşünmeyi teşvik eden sorular üretir
+
+## Canlı Demo
+Yayın Linki: https://[proje-adin].lovable.app  
+Demo Video: https://loom.com/share/[video-id]
+
+## Kullanılan Teknolojiler
+- Next.js
+- React
+- TypeScript
+- Gemini API (Google Generative AI)
+- Tailwind CSS
+
+## Nasıl Çalıştırılır?
+
+1. Projeyi klonla:
+```bash
+git clone https://github.com/livapalamut/Lilo-App-
 ---
 
 ## ✨ Özellikler
