@@ -1,8 +1,3 @@
-# 🌅 Lilo — Duygusal Karar Asistanı
-
-> *Acelen yok. Ben buradayım.*
-
-Lilo, yoğun duygusal anlarda dürtüsel kararlar almanı önlemek için tasarlanmış bir yapay zeka destekli web uygulamasıdır. Duygunu ve vermek istediğin kararı yazarsın; Lilo bilişsel çarpıtmaları tespit eder ve seni kararın rasyonelliğini sorgulamaya yönlendiren 3 soru sorar.
 
 ---
 
@@ -23,7 +18,24 @@ Lilo, yoğun duygusal anlarda dürtüsel kararlar almanı önlemek için tasarla
 
 ---
 
-## 🚀 Kurulum
+
+🌅 Lilo — Duygusal Karar Asistanı
+> *Acelen yok. Ben buradayım.*
+## Problem
+Lilo, yoğun duygusal anlarda dürtüsel kararlar almanı önlemek için tasarlanmış bir yapay zeka destekli web uygulamasıdır. Duygunu ve vermek istediğin kararı yazarsın; Lilo bilişsel çarpıtmaları tespit eder ve seni kararın rasyonelliğini sorgulamaya yönlendiren 3 soru sorar.
+## Çözüm# 
+
+
+## Canlı Demo
+Yayın Linki:[http://localhost:3000](http://localhost:3000)
+Demo Video: https://loom.com/share/[video-id]
+
+## Kullanılan Teknolojiler
+- **Frontend:** React, Next.js, Tailwind CSS
+- **AI:** Google Gemini API
+- **Deploy:** Vercel
+
+## Nasıl Çalıştırılır?
 
 ```bash
 # Bağımlılıkları yükle
@@ -67,22 +79,4 @@ Kriz anında: **182 — Türkiye İntihar Önleme Hattı**
 
 MIT © 2026 Lilo
 # [Proje Adın][README (1).md](https://github.com/user-attachments/files/26389537/README.1.md)
-
-
-## Problem
-[Hangi problemi çözüyorsun? 2-3 cümle]
-
-## Çözüm
-[Uygulamanın ne yaptığını açıkla, AI nasıl rol oynuyor?]
-
-## Canlı Demo
-Yayın Linki:[http://localhost:3000](http://localhost:3000)
-Demo Video: https://loom.com/share/[video-id]
-
-## Kullanılan Teknolojiler
-- [Teknoloji 1]
-- [Teknoloji 2]
-
-## Nasıl Çalıştırılır?
-[Kurulum ve çalıştırma adımlarını yaz]
 
