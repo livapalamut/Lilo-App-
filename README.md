@@ -30,6 +30,13 @@ Demo Video: https://loom.com/share/[video-id]
 - Gemini API (Google Generative AI)
 - Tailwind CSS
 
+- KULLANILAN AI ARAÇLARI
+- Gemini
+- Codex
+-Claude
+-GPT
+-Cursor
+-perplexity
 
 ## Nasıl Çalıştırılır?
 
