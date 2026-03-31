@@ -21,7 +21,7 @@ LİLO bu süreçte:
 
 ## Canlı Demo
 Yayın Linki: (https://lilo-app-wine.vercel.app/)  
-Demo Video: https://loom.com/share/[video-id]
+Demo Video:(https://youtu.be/FSblfYC-V68)
 
 ##🛠️ Teknolojiler
 - Next.js
