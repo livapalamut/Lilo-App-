@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌅 Lilo — Duygusal Karar Asistanı
 
-## Getting Started
+> *Acelen yok. Ben buradayım.*
 
-First, run the development server:
+Lilo, yoğun duygusal anlarda dürtüsel kararlar almanı önlemek için tasarlanmış bir yapay zeka destekli web uygulamasıdır. Duygunu ve vermek istediğin kararı yazarsın; Lilo bilişsel çarpıtmaları tespit eder ve seni kararın rasyonelliğini sorgulamaya yönlendiren 3 soru sorar.
+
+---
+
+## ✨ Özellikler
+
+- 🌿 **Duygu analizi** — Yazdığın metindeki baskın duyguyu tanımlar
+- 🧠 **Bilişsel çarpıtma tespiti** — Felaketleştirme, ya hep ya hiç gibi kalıpları fark ettirir
+- ✨ **3 yönlendirici soru** — Kararını daha net görmeni sağlar
+- 💛 **Yargılamayan ton** — Sıcak, sakin ve güvenli bir alan
+
+---
+
+## 🛠️ Teknolojiler
+
+- **Frontend:** React, Next.js, Tailwind CSS
+- **AI:** Google Gemini API
+- **Deploy:** Vercel
+
+---
+
+## 🚀 Kurulum
 
 ```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`.env.local` dosyası oluştur ve API anahtarını ekle:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+GEMINI_API_KEY=your_api_key_here
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📁 Proje Yapısı
 
-To learn more about Next.js, take a look at the following resources:
+```
+lilo-app/
+├── app/
+│   ├── page.jsx        # Ana sayfa
+│   └── api/            # Gemini API route
+├── components/         # UI bileşenleri
+├── public/             # Statik dosyalar
+└── README.md
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚠️ Önemli Not
 
-## Deploy on Vercel
+Lilo bir **terapi veya tıbbi hizmet değildir**. Profesyonel psikolojik destek için bir uzmana başvurmanızı öneririz.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kriz anında: **182 — Türkiye İntihar Önleme Hattı**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📄 Lisans
+
+MIT © 2026 Lilo
+# [Proje Adın][README (1).md](https://github.com/user-attachments/files/26389537/README.1.md)
+
+
+## Problem
+[Hangi problemi çözüyorsun? 2-3 cümle]
+
+## Çözüm
+[Uygulamanın ne yaptığını açıkla, AI nasıl rol oynuyor?]
+
+## Canlı Demo
+Yayın Linki:[http://localhost:3000](http://localhost:3000)
+Demo Video: https://loom.com/share/[video-id]
+
+## Kullanılan Teknolojiler
+- [Teknoloji 1]
+- [Teknoloji 2]
+
+## Nasıl Çalıştırılır?
+[Kurulum ve çalıştırma adımlarını yaz]
+
